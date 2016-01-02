@@ -1,0 +1,4 @@
+Tabla de tiempos AKS
+1729 0 1 0
+2465 0 1 0
+2821 0 1 0
